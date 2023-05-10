@@ -6,6 +6,6 @@ type Objeto struct {
 	Valor  int
 }
 
-func Ejercicio3(objetos []Objeto, capacidad int) map[Objeto]float32 {
+func Ejercicio3(objetos []Objeto, capacidad int) map[Objeto]float32 { //O()
 	panic("No implementado")
 }
